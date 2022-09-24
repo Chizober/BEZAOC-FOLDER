@@ -1,0 +1,5 @@
+C:\Users\Kaiser\Desktop\Guess\bin\Release\net6.0\publish\Guess.exe
+C:\Users\Kaiser\Desktop\Guess\bin\Release\net6.0\publish\Guess.dll
+C:\Users\Kaiser\Desktop\Guess\bin\Release\net6.0\publish\Guess.deps.json
+C:\Users\Kaiser\Desktop\Guess\bin\Release\net6.0\publish\Guess.runtimeconfig.json
+C:\Users\Kaiser\Desktop\Guess\bin\Release\net6.0\publish\Guess.pdb
