@@ -1,0 +1,15 @@
+C:\Users\Kaiser\Desktop\LeapYear\bin\Release\net6.0\LeapYear.exe
+C:\Users\Kaiser\Desktop\LeapYear\bin\Release\net6.0\LeapYear.deps.json
+C:\Users\Kaiser\Desktop\LeapYear\bin\Release\net6.0\LeapYear.runtimeconfig.json
+C:\Users\Kaiser\Desktop\LeapYear\bin\Release\net6.0\LeapYear.dll
+C:\Users\Kaiser\Desktop\LeapYear\bin\Release\net6.0\LeapYear.pdb
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.dll
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\refint\LeapYear.dll
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.pdb
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\LeapYear.genruntimeconfig.cache
+C:\Users\Kaiser\Desktop\LeapYear\obj\Release\net6.0\ref\LeapYear.dll
