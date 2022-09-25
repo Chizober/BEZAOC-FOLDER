@@ -1,0 +1,5 @@
+C:\Users\Kaiser\Desktop\PigLatin\obj\Release\net6.0\PigLatin.csproj.AssemblyReference.cache
+C:\Users\Kaiser\Desktop\PigLatin\obj\Release\net6.0\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaiser\Desktop\PigLatin\obj\Release\net6.0\PigLatin.AssemblyInfoInputs.cache
+C:\Users\Kaiser\Desktop\PigLatin\obj\Release\net6.0\PigLatin.AssemblyInfo.cs
+C:\Users\Kaiser\Desktop\PigLatin\obj\Release\net6.0\PigLatin.csproj.CoreCompileInputs.cache
